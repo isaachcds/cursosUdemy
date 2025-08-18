@@ -1,0 +1,71 @@
+	Number
+(Aritimético, Special Numbers)
+Number = numero;
+ - console.log(typeof 13);
+ - console.log(typeof 1.8);
+ - console.log(typeof -5);
+
+ 	Numbers: Aritmética
+Operação mais feita com os números em JS;
+ - console.log(2 + 2);
+ - console.log(2 * 4 - 3);
+ - console.log(8/4);
+
++ soma
+- subtração
+/ divisão
+* multiplicação
+% resto
+
+	Numbers: Special Numbers
+Considerado números, mas não funcionam como números;
+ - infinity;
+ - -infinity;
+ NaN (Not A Number);
+____________________________________________
+	Strings
+String = texto;
+ - console.log(typeof 'Isso é uma String');
+ - console.log(typeof "Esse texto aqui também");
+ - console.log(typeof `E este também`); (template literals)
+
+_____________________________________________
+	Booleans
+Serve para guardar um valor de uma comparação
+ - true (verdadeiro)
+ - false (falso)
+console.log(5 > 2)
+console.log(3 > 10)
+
+	Booleans: comparações
+ - Maior que: >
+ - Menor que: <
+ - Maior ou igual: >=
+ - Menor ou igual: <=
+ - Igual: ==
+ - Diferente: !=
+ - idêntico: ===
+
+	Booleans: operadores lógicos
+&& - (and) : para ser true, os dois 'lados' da comparação precisam ser true
+|| - (or) : para ser true, basta um dos 'lados' da comparação ser true;
+! - (not) : inverte os valores (true vira false);
+
+	Booleans: operador ternário
+Faz um comparativo em apenas uma linha de código				(<<<<<---- operador ternario é desnecessario)
+ - console.log(true ? 1:2);
+ - console.log(false ? 'falso' : 'verdadeiro');
+	(aqui temos um contato minucioso do if e else do JS)
+_____________________________________________
+
+	Empty Values
+Temos duas palavras reservadas da linguagem que servem para estes casos:
+ - undefined e null
+Sempre que você se deparar com estas palavras, o JS basicamente quer dizer que os valores não existem
+____________________________________________
+	Conversão de tipo automática
+O JavaScript em determinadas operações, converte silenciosamente o tipo do resultado final da operação...
+ - console.log(5 * null); // 0
+ - console.log("5" - 3); // 2
+ - console.log("5" + 1); // 51
+ - console.log("dois" * "tres"); // NaN

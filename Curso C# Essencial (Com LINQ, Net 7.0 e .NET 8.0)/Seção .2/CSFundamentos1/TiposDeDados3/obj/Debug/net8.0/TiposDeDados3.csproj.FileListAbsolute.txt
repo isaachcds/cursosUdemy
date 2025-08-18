@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.exe
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.deps.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.runtimeconfig.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.AssemblyInfo.cs
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\refint\TiposDeDados3.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.genruntimeconfig.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\ref\TiposDeDados3.dll

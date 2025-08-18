@@ -1,0 +1,33 @@
+		Box Model
+
+	- Box Model é uma entidade que é criado em todo elemento do HTML
+
+	- Ela consiste em quatro partes: altura e largura, padding, border e margin;
+
+	- Todas elas podem ser alteradas por CSS;
+
+	- Alguns elementos do HTML já vem com valor nestas regras;
+
+
+		Height and Width
+
+	- A altura e largura são o core do box model;
+
+	- Estas propriedades consistem no conteúdo do elemento;
+
+	- Podemos alterar as duas e mudar o tamanho do elemento na tela;
+
+	- Alguns elementos do HTML, os blocks elements, já vem com 100% de largura;
+
+	- Preenchendo toda a tela na horizontal;
+
+
+		Border
+
+	- A borda é o elemento central, fica entre padding e margin;
+
+	- Padding é o espaçamento interno e margin o externo;
+
+	- Geralmente esta regra é utilizado com propósito decorativo;
+
+	- A regra de border é definida em algumas partes: tamanho, aspecto e cor da borda;

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\bin\Debug\net8.0\Entrada de Dados.exe
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\bin\Debug\net8.0\Entrada de Dados.deps.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\bin\Debug\net8.0\Entrada de Dados.runtimeconfig.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\bin\Debug\net8.0\Entrada de Dados.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\bin\Debug\net8.0\Entrada de Dados.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.AssemblyInfo.cs
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\obj\Debug\net8.0\refint\Entrada de Dados.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.genruntimeconfig.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\Entrada de Dados\obj\Debug\net8.0\ref\Entrada de Dados.dll

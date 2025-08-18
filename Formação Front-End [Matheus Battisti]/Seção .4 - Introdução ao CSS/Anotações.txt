@@ -1,0 +1,161 @@
+		Maneiras de Adicionar CSS
+
+	- Inline: quando os estilos são adicionados por um 
+	atributo;
+
+	- Internal: quando o CSS é adicionado na tag head;
+
+	- External: quando o CSS é adicionado atraves de um arquivo external depois importado no HTML;
+
+		
+		A anatomia do CSS
+
+	- Com CSS aplicamos CSS a um elemento
+
+	- Primeiramente devemos selecionar o elemento, isso pode ser feito através da tag do elemento;
+
+	- Depois precisamos colocar as propriedades e os valores;
+
+	- Se quisermos mudar a cor de algo, utilizamos: 
+	color: red;
+
+	- Nome da propriedade, dois pontos, valor, ponto e vírgula;
+
+
+		Inline CSS
+
+	- O CSS inline pode ser adicionado sem selecionar o elemento, porque um atributo diretamente inserido no mesmo;
+
+	- O elemento ja está selecionado!
+
+	- O atributo style nos permite escrever regras de CSS;
+
+	- Exemplo:
+	style="color: red;"
+
+
+		Múltiplas regras
+
+	- Podemos adicionar varias regras de CSS
+
+	- Elas podem ser separados por ponto e vírgula;
+
+	- Então é possivel fazer uma união de estilos, dar um design melhor ao elemento;
+
+
+		Internal CSS
+
+	- O CSS interno é uma técnica melhor que o inline, vamos colocar todos os estilos na tag head;
+
+	- As regras precisam também estar entre a tag style;
+
+	- E através desta maneira, é necessário selecionar o elemento alvo: 
+
+	p {
+
+	  color:red;
+	}
+
+	
+		External CSS
+
+	- Para adicionar CSS com esta técnica precisamos criar um arquivo .css;
+
+	- Geralmente eles ficam numa pasta chamada css;
+
+	- E nós o importamos através da tag link;
+
+	- As regras que estão no arquivo são aplicadas no HTML;
+
+
+		Ordem do CSS
+
+	- O CSS é carregado a partir de uma ordem;
+
+	- Se temos estilos misturados (inline, internal e external), qual será aplicado?
+
+	- Todos eles, mas com a seguinte ordem: inline > internal = external > padrão do navegador;
+
+	- Esta regra funciona quando temos estilos em um mesmo elemento;
+
+	- Interno e externo tem a mesma prioridade, a ultima regra ganha a 'corrida';
+
+
+		Múltiplos arquivos de CSS
+
+	- É possivel ter mais de uma folha de estilo no nosso projeto; 
+
+	- Precisamos apenas improtas todas elas na tag head;
+
+	- Os arquivos importados por ultimo tem mais prioridade;
+
+	- Os arquivo importados por ultimo tem mais prioridade
+
+
+		Comentários no CSS
+
+	- A sintaxe é /* algum comentario */
+
+	______________________________________________
+
+
+		Classes e ids
+
+	- Classes e ids são atributos de tags do HTML, mas estão diretamente relacionados ao CSS;
+
+	- Podemos especificar elementos especificos com eles;
+
+	- ids são utilizados para elementos únicos;
+
+	- E classes servem para um ou mais elementos, geralmente utilizadas em conjuntos de elementos;
+
+	- Veremos a utilização dos mesmos nos nossos projetos também;
+
+
+
+		Classes
+
+	- As classes são inseridas através de um atributo de HTML;
+
+	- O valor do atributo é o nome da classe, e também uma escolha nossa;
+
+	- Por exemplo: temos um botão que aparece x vezes no nosso projeto, podemos clocar uma classe btn nele;
+
+	- Ou seja, os padrões de estilo desses botões podem ser transmitidos através desta classe para os demais;
+
+	- O seletor fica: .<nome_da_classe>
+
+
+
+		IDs
+
+	- Os ids também são atributos do HTML;
+
+	- Podemos escrever qualquer coisa como valor, será o nome do id;
+
+	- Ids são únicos, ou seja, não repetimos o mesmo nome na mesma página;
+
+	- O HTML não nos proíbe disso, mas é uma má prática e deve ser evitada;
+
+	- O Seletor fica: #<nome_do_id>
+
+
+		A ordem dos seletores
+
+	- Nós aprendemos sobre o seletor de id e classe;
+
+	- E se a tag estiver com id e uma classe, o que acontece?
+
+	- Como nas maneiras de adicionar CSS, temos uma ordem;
+
+	- Que é: id> class > seletor de tag;
+
+	- Então o id vai vencer de todos os outros, utilize isso ao seu favor;
+
+	- Regras que não entram em conflito serão aplicadas normalmente;
+
+
+
+		As cores do CSS
+
+	

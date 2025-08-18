@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.exe
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.deps.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\refint\OperadoresAritmeticos.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\ref\OperadoresAritmeticos.dll

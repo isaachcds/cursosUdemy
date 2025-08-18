@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+}
+
+
+.background{
+    background-color: black;
+    color: white;
+}
+
+/* Ids */
+
+#titulo{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+}
+
+/* Ordem */
+
+h2{
+    border-bottom: 2px solid red;
+}
+
+.title{
+    border-bottom: 3px solid blue;
+}
+
+#titulo2{
+    border-bottom: 4px solid green;
+}

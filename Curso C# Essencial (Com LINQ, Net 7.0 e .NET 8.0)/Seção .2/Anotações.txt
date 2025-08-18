@@ -1,0 +1,308 @@
+Tipos de dados
+
+As informaç~eos em um computador são armazenadas inicialmente na memoria RAM.
+
+A memoria do computador se organiza como um armário com várias divisões. Sendo cada divisão por um endereço
+
+Como temos diversos tipos de informaç~eos, para otimizar o seu armazenamento, a linguagem C# divide essas informações em diferentes tipos de dados.
+
+Exemplo de tipos de dados: números inteiros, números decimais, caracteres simples, textos, tipos complexos, estruturas de dados, etc.
+
+Essas informações são armazenadas em VARIAVEIS ou CONSTANTES na linguagem C#
+
+
+
+A linguagem C# é uma linguagem de programação fortemente tipada
+
+Na linguagem C# precisamos informar qual o tipo de dados que vamos usar toda vez que declaramos uma variável ou constante
+
+para isso a linguagem C# define tipos pré-definidos que podemos usar em nossos programas.
+
+
+		
+			Variaveis e Constantes
+
+		int valor = 123;
+	(int = tipo de dados)
+	(valor = nome da variavel)
+	(123 = valor da variavel)
+
+
+		Tipos pré-definidos: Tipos de Referência
+
+	[string/ System.string] Representa uma sequencia de zero ou mais carcteres Unicode (São imutaveis)
+
+	[Object/ System.Object] É o tipo base para todos os outros tipos
+
+	[Dynamic/ System.Object] São resolvidos em tempo de execução
+			  Se comporta como o tipo object na maioria da situações.
+
+	- São tipos de referência
+	- O valor padrão é null
+
+			string nome = "Curso Csharp Essencial"
+			System.String nome = "Curso Csharp Essencial"
+
+
+			Nullable Types ou Tipos Anuláveis
+
+	Um Nullable Type é um tipo de valor que pode receber um valor null
+
+	Os Nullable Types ou Tipos Anuláveis permitem atribuir umv alor null a um tipo de valor
+
+
+	Nullable<Tipo> <nome> = null;
+
+	NullableTypes pode simplificar a declaração usando o operador ?
+
+	int? i = null;
+	double? d = null; 
+	e etc.
+
+
+
+_______________________________________________________
+			Identificadores
+
+		Um identificador é o nome que você atribui a um tipo (classe, interface, struct, record, delegate ou enum), membro, propriedade, variável ou namespace.
+
+	Utilizar nomes significativos que permitam inferir o propósito do identificador. 
+	Ex: calculoDoImpostoICMS, valorTotalComDesconto, dataVencimentoFatura
+
+	Não criar identificadores usando o mesmo nome mas alternando o uso de maiúsculas e minúsculas. Ex: valorTotal, ValorTotal, Valor_Total, valortotal.
+
+Case Sensitive: significa que é sensivel a letras maiúsculas e minúsculas, ou seja, a mesma letra maiúscula e minúscula é considerada diferente.
+
+
+	Regras geral para identificadores validos
+
+Devem começar com letra ou sublinhado (_)
+Não podem iniciar ocm um numero ou caracteres especiais
+Não podem conter espaços
+Podem usar caracteres Unicode: pre\u00E7o (valido mas não recomendado)
+Não pode ser uma plaavra-reservada da linguagem: if, int, double, string, class,
+Não podem exceder 512 caracteres
+
+Válidos
+
+int idade; ou int idade1;
+string_imposto;
+float valorTotal;
+decimal pre\u00E7o (decimal preço)
+
+
+
+Inválidos
+
+int 9idade;
+string $imposto;
+float valor total;
+decimal class;
+
+
+		Camel Case - primeira letra da primeira palavra é iniciada com minúscula. A letra de cada palavra seguinte deve ser iniciada com maiúscula.
+
+		Ex: valorDoDesconto, nomeCompleto, valorDoImpostoSobreServico
+
+		Usado em nome de variaveis, parametros e campos internos privados
+
+
+
+		Pascal Case - A primeira letra de cada palavra é iniciada com maiuscula.
+
+		Ex: CalculaImpostoDeRenda, ValorDoDesconto, NomeCompleto
+
+		Usado em nomes de classes, métodos, interfaces, propriedades
+
+
+
+			Convenções
+
+		Constantes - Usar letras maiúsculas.
+
+		Ex: PI, DESCONTO, VALOR, IMPOSTO, PESSOA_FISICA
+
+
+		Sublinhado (_) - Usado para campos internos privados e somente leitura(camel case)
+
+		Ex: _valorTotal, _calculoImposto, _precoComDesconto
+
+
+
+			Saida de dados: Formatação
+
+
+		Concatenação - É o processo de acrescentar uma cadeia de caracteres ao final de outra cadeia de caracteres. Para isso usamos o operador +.
+Ex: Console.Write(nome + " tem " + idade + " anos");
+
+		
+		Interpolação - Usa objetos e expressões para realizar uma interpolação de strings. Para isso usa o operador $ para indicar a interpolação e {} para conter as variáveis a serem substituídas
+
+Ex: Console.WriteLine($"{nome} tem {idade}  anos");
+
+
+
+			
+			Conversão entre os tipos
+
+		A linguagem C# é estaticamente tipada em tempo de compilação
+
+		Após uma variavel ser declarada ela não pode ser declarada novamente
+
+		Nem pode ser usada para armazenar valores de outro tipo de dados
+
+		A menos que este tipo de dados seja convertível para o tipo de dados da variável
+
+		O processo de converter um valor de um tipo de dados para outro tipo de dados é chamado de conversão de tipos
+
+
+			Conversão para String usando método ToString()
+
+			O método ToString() da classe Object retorna uma string que representa o objeto atual
+
+			Converte um objeto em sua representação de cadeia de caracteres para exibição
+
+			Como object é pai de todos os objetos na linguagem C# todos os objetos herdam o método ToString() da classe Object
+
+
+
+
+			Entrada de dados 
+		Métodos da classe Console
+
+		ReadLine(): lê uma unica linha de entrada do fluxo de entrada padrão. 
+		Retorna a mesma string.
+
+
+		Read(): lê apenas um único caractere do fluxo de entrada padrão.
+		Retorna o valor ASCII do caractere.
+
+
+		ReadKey(): lê apenas um único caractere do fluxo de entrada padrão.
+		Obtém a próxima tecla pressionada pelo usuário.
+		Retorna um tipo ConsoleKeyInfo.
+		É usado para segurar a tela até que o usuário pressione uma tecla.
+
+
+
+			
+			Linguagem fortemente Tipada
+
+		A linguagem C# é fortemente tipada e a declaração de tipo padrão é o tipo explícito.
+
+		string nome = "Maria";
+		int idade = 10;
+
+
+		int x = 13; 		Declara e atribui o valor imediatamente
+
+		int y;				Declara e atribui o valor mais tarde
+		y = 13;
+
+		decimal salario, imposto, total;
+
+
+		limitações da palavra-chave var:
+
+		A palavra chave var só pdoe ser usada quando uma variavel local é declarada e inicializada na mesma instrução;
+		(implicily-typed variables must be initialized)
+
+		Não é possivel inicializar a variavel como null
+
+		Multiplas variaveis do tipo implicito não podem ser inicializadas na mesma instrução;
+
+		não podemos altear o tipo da variavel var depois de utilizda
+
+
+
+		Uso da palavra-chave var
+
+		Considerando uma açucar sintatico
+
+		Usada para declarar tipos anonimos
+
+		Usadas em laços fro e foreach
+
+		Usadas em instruções using
+
+
+
+
+			Operador de atribuição
+
+	Operador    Exemplo    Significado
+		=	x = 10;			x recebe o valor de 10
+
+		+=  x +=5;			x recebe o vlaor de x+5 (x = x+5)
+
+		-=
+
+		*=
+
+		/=
+
+		%=
+
+
+		Podemos usar os operadores com strings
+
+		string y = "123";	valor inicial de y é "123"
+
+		y +="456"; 			valord e y é "123456" > y = y + "456"
+
+
+
+
+			Constantes
+
+		Constantes são valores imutáveis que são conhecidos em tempo de compilação e não mudam durante a vida útil do programa.
+
+		As constantes são declaradas usando modificador const e devem ser inicializadas na sua declaração
+
+		const int ANO = 12;
+
+		const int MES = 30, SEMANA = 7, QUINZENA = 15;
+
+
+
+		Operadores Relacionais
+
+		==, >, <, <=, >=, !=
+
+
+== Significado Igualdade
+>  Significado Maior que
+<  Significado Menor que
+>= Significado Maior ou igual
+<= Significado Menor ou igual
+!= Significado Não igual ou diferente de 
+
+exemplo para: int x = 10; e int y =20;
+
+x == y False
+x > y False
+x < y True
+x >= y False
+x <= y True
+x != y True
+
+
+
+		Operadores Lógicos condicionais
+
+		&&, ||, !
+
+&& Significa AND = E
+|| Significa OR = OU
+!  Significa NOT = Não
+
+
+exemplo para: c1 = true; e c2 = false;
+
+c1 && c2 dará False, seu comportamento retornara False se apenas uma das condições for False
+
+c1 || c2 dará True, seu comportamento retornara True se apenas uma das condições for True
+
+!(c1 && c2) dará True, seu comportamento Inverte o resultado, retorna False se o resultado da expressão for True e vice-versa
+
+

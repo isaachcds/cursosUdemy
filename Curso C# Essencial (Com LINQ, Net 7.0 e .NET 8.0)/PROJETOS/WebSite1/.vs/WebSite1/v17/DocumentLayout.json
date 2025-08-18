@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\PROJETOS\\WebSite1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3ADC9E-83CF-40BC-A772-EA4D5EE3A44B}|C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\PROJETOS\\WebSite1\\WebSite1|c:\\users\\user\\desktop\\udemy\\curso c# essencial (com linq, net 7.0 e .net 8.0)\\projetos\\website1\\website1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9A3ADC9E-83CF-40BC-A772-EA4D5EE3A44B}|C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\PROJETOS\\WebSite1\\WebSite1|solutionrelative:website1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\PROJETOS\\WebSite1\\WebSite1\\Default.aspx",
+              "RelativeDocumentMoniker": "WebSite1\\Default.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\PROJETOS\\WebSite1\\WebSite1\\Default.aspx",
+              "RelativeToolTip": "WebSite1\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-21T20:44:03.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

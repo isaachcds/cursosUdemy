@@ -1,0 +1,156 @@
+		A anatomia das Tags
+
+
+- O elemento principal do HTML é a tag;
+
+- Toda tag tem um nome e um propósito, a tag 'p' serve para parágrafos;
+
+- Nós precisamos envolver uma tag com sinais de menor e maior: assim: <p>
+
+- E no meio colocar um contéudo: <p>Texto</p>
+
+- Isso vai criar um elemento de parágrafo, quase todas as tags funcionam assim;
+
+
+		A estrutura do HTML
+
+
+- Todos os projetos de HTML tem uma estrutura base, ou seja, precisamos criar alguams tags;
+
+- DOCTYPE: Esta tag declara a versão do HTLM;
+
+- html: Esta tag envolve todo o código de HTML;
+
+- head: Nesta colocamos todas as configurações de um site, como a importação de CSS e o título da página (meta tags);
+
+- body: É onde todos os elementos visiveis estão;
+
+
+		Títulos
+
+- Os títulos são conhecidos como headings;
+
+- Utilizamos principalmente para separar seções;
+
+- O nome da tag é h*, onde * pode ser um valor de 1 a 6;
+
+- O maior título é o h1, e também é o mais importante, colocamos apenas um por página;
+
+- A importância deve estar conectada com o propósito da nossa página, este assunto faz parte do HTML semântico, um tópico mais avançado;
+
+
+		Parágrafos
+
+- Utilizamos os parágrafos para inserir textos maiores;
+
+- A tag é <p>
+
+- Cada parágrafo começa uma nova linha, e este comportamento acontece com todas as tags de bloco;
+
+- Temos várias tags de bloco, os titulos fazem parte deste grupo;
+
+
+		Tags sem conteúdo
+
+- Nós temos em HTML tags sem conteúdo;
+
+- Elas possuem recursos geralmente, como quebrar linha;
+
+- Para este fim podemos utilizar a tag <br/>
+
+- Para uma linha horizontal temos <hr/>
+
+- Elas também introduzem o conceito de self closing tags, onde a tag não possui uma outra tag de fechamento;
+
+
+	Atributos
+
+- Atributos podem ser utilizados para adiconar funcionalidades as tags;
+
+- A tag a é responsável por nos direcionar a uma nova página ou site;
+
+- Mas aonde vamos adicionar o endereço/URL?
+
+- Colocamos no atributo chamado href;
+
+- Um exmeplo: <a href="https://www.google.com">Google</a>
+
+- Neste exemplo, ao clicar no link o usuário é redirecionado para o Google;
+
+	Atributos V.2 [Abrir nova aba]
+
+- Com um atributo podemos fazer o link abrir em uma nova aba;
+
+- Isso é utilizado frequentemente para redirecionar a outro site;
+
+- Por exemplo: temos um link que leva a um e-commerce que não é nosso, não temos aquele domínio;
+
+- Então utilizamos o atributo target com o valor_blank;
+
+
+
+	Imagens no HTML
+
+- Nós podemos inserir imagens no nossos ite com a tag img;
+
+- O caminho relativo até a imagem é inserido no atributo src;
+
+- Normalmente colocamos a imagem numa pasta chamada img ou assets, para fins de organização;
+
+- Nota: a imagem é uma self closing tag;
+
+
+	O atributo ALT
+
+- Nas tags de imagem temos um atributo chamado alt;
+
+- Nós inserimos nele um texto que descreve a imagem;
+
+- Todas as imagens devem ter este atributo configurado;
+
+- Este recurso é importante para acessibilidade, fazendo com que nossos site seja melhor rankeado pelo Google também;
+
+
+	Listas não ordenadas
+
+- Listas são importantes para muitos fins nos sites;
+
+- Podemos até criar um menu a partir de uma lista;
+
+- As não ordenadas são criadas pela tag ul;
+
+- Cada item na lista é representado pela tag li;
+
+
+	Listas ordenadas
+
+- Listas ordenadas são interessantes para quando há um procedimento ou passos a serem seguidos;
+
+- Exemplo: receita de algum alimento;
+
+- Agora utilizamos a tag ol;
+
+- E os itens continuam sendo a tag li;
+
+	Tabelas
+
+- Nós usamos tabelas para exibir dados que podem ser categorizados em colunas;
+
+- Tabelas são estruturas complexas no HTML, e não tão utilizadas;
+
+- Precisamos da tag table, isso cria a tabela;
+
+- E também um cabeçalho e um corpo;
+
+- Cada linha é criada em uma tag tr, e os dados ficam em td;
+
+- No cabeçalho utilizamos a tag th;
+
+	
+	A tag div
+
+- A tag div é utilizada para criar divisões/seções no nosso site;
+
+- Podemos criar elementos menores também, como cards;
+
+- O principal propósito é: encapsular elementos que estão conectados entre si;

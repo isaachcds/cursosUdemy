@@ -1,0 +1,22 @@
+			Background images
+
+	- Podemos inserir imagens no background dos elementos;
+
+	- A regra é: background-image: url("pasta/imagem.jpg")
+
+	- Geralmente a imagem fica em outra pasta, então temos que voltar um diretório;
+
+	- isso pode ser feito com o símbolo.. (dois pontos)
+
+
+			Background opacity
+
+	- Podemos alterar a opacidade de uma cor de fundo com CSS;
+
+	- A regra é a opacity;
+
+	- Os valores vão de 0 a 1;
+
+	- Sendo 1 totalmente visivel e 0 remove a cor;
+
+	- Com esta regra mudamos também a opacidades dos elementos dentro do elemento que alteramos a opacidade, veremos uma solução depois

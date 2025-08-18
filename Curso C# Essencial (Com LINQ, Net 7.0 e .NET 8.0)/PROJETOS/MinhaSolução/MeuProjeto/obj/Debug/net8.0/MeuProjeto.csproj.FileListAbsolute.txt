@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\bin\Debug\net8.0\MeuProjeto.exe
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\bin\Debug\net8.0\MeuProjeto.deps.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\bin\Debug\net8.0\MeuProjeto.runtimeconfig.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\bin\Debug\net8.0\MeuProjeto.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\bin\Debug\net8.0\MeuProjeto.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\obj\Debug\net8.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\obj\Debug\net8.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\obj\Debug\net8.0\MeuProjeto.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\obj\Debug\net8.0\refint\MeuProjeto.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\obj\Debug\net8.0\MeuProjeto.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\PROJETOS\MinhaSolução\MeuProjeto\obj\Debug\net8.0\ref\MeuProjeto.dll

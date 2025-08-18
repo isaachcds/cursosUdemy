@@ -1,0 +1,49 @@
+/* background */
+p{
+    font-size: 40px;
+}
+
+.bg{
+    background-color: black;
+    color: yellow;
+}
+
+.bg-2{
+    background-color: rgb(200, 20, 40);
+    color: aqua;
+}
+
+/* Background opacity */
+
+.bg-opacity{
+    opacity: .2;
+    background-color: green;
+}
+
+.bg-opacity2{
+    opacity: .8;
+    background-color: #999;
+    color: black;
+}
+
+/* Background image */
+
+.bg-image{
+    background-image: url(img/nature.jpg);
+    padding: 10px;
+    color: white;
+}
+
+/* Centralizar bg-image */
+
+.not-centered-bg, 
+.centered-bg{
+height: 400px;
+width: 400px;
+background-image: url(img/bridge.jpg);
+}
+
+.centered-bg{
+    background-position: center;
+    background-size: cover;
+}

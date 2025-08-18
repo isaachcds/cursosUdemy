@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Name": "MeuProjeto\\MeuProjeto.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "MeuProjeto2\\MeuProjeto2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

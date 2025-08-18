@@ -1,0 +1,5 @@
+Essa seção foi dedicada a explicar cada tipo de dado e operadores lógicos do javascript
+
+É explicado sobre os tipos number (numeros), string (texto) e comparações (boolean) alem de alguns operadores lógicos 
+
+Uma seção bastante importante para o que vem a seguir...

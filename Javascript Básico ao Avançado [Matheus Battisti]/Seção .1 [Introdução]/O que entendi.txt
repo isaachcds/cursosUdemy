@@ -1,0 +1,6 @@
+Essa foi uma seção introdutoria do curso, onde explica um pouco da historia do Javascript e alguns ensinamentos básicos como o uso do console.log 
+(onde vemos a ação no console do navegador)
+
+Foi se recomendando alguns livros e foi disponibilizado um slide com muita informação do curso em si
+
+Foi uma boa seção de introdução para o curso.

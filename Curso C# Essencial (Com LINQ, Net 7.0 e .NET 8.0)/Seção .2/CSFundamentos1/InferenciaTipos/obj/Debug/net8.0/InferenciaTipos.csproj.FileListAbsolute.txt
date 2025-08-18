@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\bin\Debug\net8.0\InferenciaTipos.exe
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\bin\Debug\net8.0\InferenciaTipos.deps.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\bin\Debug\net8.0\InferenciaTipos.runtimeconfig.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\bin\Debug\net8.0\InferenciaTipos.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\bin\Debug\net8.0\InferenciaTipos.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\obj\Debug\net8.0\InferenciaTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\obj\Debug\net8.0\InferenciaTipos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\obj\Debug\net8.0\InferenciaTipos.AssemblyInfo.cs
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\obj\Debug\net8.0\InferenciaTipos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\obj\Debug\net8.0\InferenciaTipos.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\obj\Debug\net8.0\refint\InferenciaTipos.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\obj\Debug\net8.0\InferenciaTipos.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\obj\Debug\net8.0\InferenciaTipos.genruntimeconfig.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\InferenciaTipos\obj\Debug\net8.0\ref\InferenciaTipos.dll

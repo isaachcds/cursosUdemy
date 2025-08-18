@@ -1,0 +1,25 @@
+	O que é HTML?
+
+- HTML não é uma linguagem de programação, e sim de marcação;
+
+- Utilizamos para estruturar páginas web, criando elemento de texto, inserindo imagens, listas e formulários;
+
+- É o esqueleto de qualquer aplicação web;
+
+- Nós não precisamos de um software para compilar HTML;
+
+- Podemos apenas abrir um arquivo .html no navegador e executar a linguagem;
+
+
+	
+	O que é CSS?
+
+- CSS é a linguagem que mais utilizamos para estilizar um site;
+
+- Usamos em conjunto de HTML, a integração é super simples;
+
+- Sem CSS todas as páginas seriam iguais, com apenas diferença no conteúdo;
+
+- As regras de CSS são aplicadas aos elementos do HTML;
+
+- Podemos adicionar cores, mudar o tamhno de uma fonte, adicioanr bordas aos elementos e muito mais!

@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{856A95CB-4391-47E5-B939-B091A7382D24}|OperadoresRelacionais1\\OperadoresRelacionais1.csproj|c:\\users\\user\\desktop\\udemy\\curso c# essencial (com linq, net 7.0 e .net 8.0)\\se\u00E7\u00E3o .2\\csfundamentos1\\operadoresrelacionais1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A95CB-4391-47E5-B939-B091A7382D24}|OperadoresRelacionais1\\OperadoresRelacionais1.csproj|solutionrelative:operadoresrelacionais1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A95CB-4391-47E5-B939-B091A7382D24}|OperadoresRelacionais1\\OperadoresRelacionais1.csproj|c:\\users\\user\\desktop\\udemy\\curso c# essencial (com linq, net 7.0 e .net 8.0)\\se\u00E7\u00E3o .2\\csfundamentos1\\operadoresrelacionais1\\operadoresrelacionais1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{856A95CB-4391-47E5-B939-B091A7382D24}|OperadoresRelacionais1\\OperadoresRelacionais1.csproj|solutionrelative:operadoresrelacionais1\\operadoresrelacionais1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262C4B42-2A15-4326-80D4-F94DFB763634}|OperadoresIncrementoDecremento1\\OperadoresIncrementoDecremento1.csproj|c:\\users\\user\\desktop\\udemy\\curso c# essencial (com linq, net 7.0 e .net 8.0)\\se\u00E7\u00E3o .2\\csfundamentos1\\operadoresincrementodecremento1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262C4B42-2A15-4326-80D4-F94DFB763634}|OperadoresIncrementoDecremento1\\OperadoresIncrementoDecremento1.csproj|solutionrelative:operadoresincrementodecremento1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0936163-94D2-4529-8BF2-C4756F160E67}|Convers\u00E3oTipos\\Convers\u00E3oTipos.csproj|c:\\users\\user\\desktop\\udemy\\curso c# essencial (com linq, net 7.0 e .net 8.0)\\se\u00E7\u00E3o .2\\csfundamentos1\\convers\u00E3otipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0936163-94D2-4529-8BF2-C4756F160E67}|Convers\u00E3oTipos\\Convers\u00E3oTipos.csproj|solutionrelative:convers\u00E3otipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0936163-94D2-4529-8BF2-C4756F160E67}|Convers\u00E3oTipos\\Convers\u00E3oTipos.csproj|c:\\users\\user\\desktop\\udemy\\curso c# essencial (com linq, net 7.0 e .net 8.0)\\se\u00E7\u00E3o .2\\csfundamentos1\\convers\u00E3otipos\\convers\u00E3otipos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0936163-94D2-4529-8BF2-C4756F160E67}|Convers\u00E3oTipos\\Convers\u00E3oTipos.csproj|solutionrelative:convers\u00E3otipos\\convers\u00E3otipos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EBA6FE-EA74-4970-89C0-16C9EB596F21}|Constantes1\\Constantes1.csproj|c:\\users\\user\\desktop\\udemy\\curso c# essencial (com linq, net 7.0 e .net 8.0)\\se\u00E7\u00E3o .2\\csfundamentos1\\constantes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EBA6FE-EA74-4970-89C0-16C9EB596F21}|Constantes1\\Constantes1.csproj|solutionrelative:constantes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperadoresRelacionais1",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\OperadoresRelacionais1\\OperadoresRelacionais1.csproj",
+              "RelativeDocumentMoniker": "OperadoresRelacionais1\\OperadoresRelacionais1.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\OperadoresRelacionais1\\OperadoresRelacionais1.csproj",
+              "RelativeToolTip": "OperadoresRelacionais1\\OperadoresRelacionais1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T19:29:01.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\OperadoresRelacionais1\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresRelacionais1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\OperadoresRelacionais1\\Program.cs",
+              "RelativeToolTip": "OperadoresRelacionais1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:14:11.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\Convers\u00E3oTipos\\Program.cs",
+              "RelativeDocumentMoniker": "Convers\u00E3oTipos\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\Convers\u00E3oTipos\\Program.cs",
+              "RelativeToolTip": "Convers\u00E3oTipos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:02:55.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Convers\u00E3oTipos",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\Convers\u00E3oTipos\\Convers\u00E3oTipos.csproj",
+              "RelativeDocumentMoniker": "Convers\u00E3oTipos\\Convers\u00E3oTipos.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\Convers\u00E3oTipos\\Convers\u00E3oTipos.csproj",
+              "RelativeToolTip": "Convers\u00E3oTipos\\Convers\u00E3oTipos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T15:02:51.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\OperadoresIncrementoDecremento1\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresIncrementoDecremento1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\OperadoresIncrementoDecremento1\\Program.cs",
+              "RelativeToolTip": "OperadoresIncrementoDecremento1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:32:40.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\Constantes1\\Program.cs",
+              "RelativeDocumentMoniker": "Constantes1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Udemy\\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\\Se\u00E7\u00E3o .2\\CSFundamentos1\\Constantes1\\Program.cs",
+              "RelativeToolTip": "Constantes1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T22:46:41.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

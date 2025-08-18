@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\bin\Debug\net8.0\SaidaDados2.exe
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\bin\Debug\net8.0\SaidaDados2.deps.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\bin\Debug\net8.0\SaidaDados2.runtimeconfig.json
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\bin\Debug\net8.0\SaidaDados2.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\bin\Debug\net8.0\SaidaDados2.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.AssemblyInfo.cs
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\refint\SaidaDados2.dll
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.pdb
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.genruntimeconfig.cache
+C:\Users\User\Desktop\Udemy\Curso C# Essencial (Com LINQ, Net 7.0 e .NET 8.0)\Seção .2\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\ref\SaidaDados2.dll
